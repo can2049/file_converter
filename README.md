@@ -25,3 +25,7 @@ cargo build
 2. choose what file type you want to convert to. like `toml`
 3. then you get convert mode `json2toml`
 4. usage: `file_converter --mode <MODE> <FILE>`
+
+# todo
+
+- [ ] add xml support

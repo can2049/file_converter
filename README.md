@@ -1,6 +1,6 @@
 # description
 
-Convert file format.
+Convert configuration file format to each other.
 
 Valid input/output file format:
 
@@ -29,3 +29,4 @@ cargo build
 # todo
 
 - [ ] add xml support
+- [ ] add ini support
